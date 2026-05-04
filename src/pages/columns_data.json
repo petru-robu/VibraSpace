@@ -241,28 +241,5 @@
         "img": "/img/22.png"
       }
     ]
-  },
-  {
-    "title": "Repetition",
-    "description": "Spatial intervals",
-    "definition": "Repetition in architecture refers to the recurring use of forms, elements, modules, or spatial intervals within a composition. It establishes order, rhythm, continuity, and visual coherence, often rearhinforcing structure and hierarchy.",
-    "items": [
-      {
-        "id": 23,
-        "label": "Dense",
-        "type": "Rhythmic Cluster",
-        "audio": "/audio/23.wav",
-        "arhinfo": "Dense repetition describes a pattern in which architectural elements are repeated at close intervals with limited spacing. It is often associated with intensity, texture, enclosure, and a strong rhythmic presence.",
-        "img": "/img/23.png"
-      },
-      {
-        "id": 24,
-        "label": "Sparse",
-        "type": "Open Interval",
-        "audio": "/audio/24.wav",
-        "arhinfo": "Sparse repetition describes a pattern in which architectural elements are repeated at wider intervals with greater spacing between them. It is often associated with openness, lightness, clarity, and a more relaxed spatial rhythm.",
-        "img": "/img/24.png"
-      }
-    ]
   }
 ]

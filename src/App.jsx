@@ -5,6 +5,8 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Mixer from "./pages/Mixer";
+import Theory from "./pages/Theory";
+import Workshop from "./pages/Workshop";
 
 import { Link } from "react-router-dom";
 
@@ -17,6 +19,8 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/mixer" element={<Mixer />} />
+        <Route path="/theory" element={<Theory />} />
+        <Route path="/workshop" element={<Workshop />} />
       </Routes>
     </BrowserRouter>
   );
